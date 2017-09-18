@@ -26,7 +26,7 @@ For this lab, you will need…
 
 ## Review your OpenAPI Specification
 
-* Go to [https://apigee.com/edge](https://apigee.com/edge) and log in. This is the Edge management UI
+* Go to [https://apigee.com/edge](https://apigee.com/edge) and log in. This is the Edge Management UI
 
 * Select **Develop → Specs**
 
